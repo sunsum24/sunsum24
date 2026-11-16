@@ -15,7 +15,7 @@
 ---
 
 ## 💻 Professional Profile
-Results-driven Computer Science graduate, specializing in Penetration Testing and Enterprise Network Security. Formally certified by the Cyber Security Authority (CSA) of Ghana. Adept at identifying systemic network vulnerabilities and translating technical risk metrics into European compliance strategies (OWASP, GDPR).
+Results-driven Computer Science graduate, specializing in Penetration Testing and Enterprise Network Security. Formally certified by the Cyber Security Authority (CSA) of Ghana. Adept at identifying systemic network vulnerabilities and translating technical risk metrics into European compliance strategies (OWASP, GDPR). Adept in customising Artificial Intelligence prompts for efficient and healthy output
 
 ---
 
