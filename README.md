@@ -51,6 +51,7 @@ Results-driven Computer Science graduate, specializing in Penetration Testing an
 ## Language & Cultural Alignment
 * **English:** Full Professional Proficiency (C1/C2 equivalent)
 * **Italian:** Limited working Proficiency(A2/B1 CEFR Level - Continuous Study Track)
+* **French:**  Limited working Proficiency (B1/B2 CEFR Level - Continuous Study Track)
 ---
 ## GDPR Compliance Notice
 * *In compliance with the European General Data Protection (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes*
