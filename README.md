@@ -46,7 +46,7 @@ Results-driven Computer Science graduate, specializing in Penetration Testing an
 
 ## Professional Certification
 * **OSCP+/ OSCP:** -*In progress*
-* **CompTIA PenTest+:** -*In Progress*
+* **CompTIA Security+:** -*In Progress*
 ---
 ## Language & Cultural Alignment
 * **English:** Full Professional Proficiency (C1/C2 equivalent)
