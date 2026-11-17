@@ -60,7 +60,7 @@ Developed a standardized, CVSS v3.1-aligned reporting template for penetration t
 ### ☁️ [Active Directory Password Sprayer](https://github.com/sunsum24/AD-Password-Sprayer)
 Built a Python tool designed to safely test Active Directory account lockout policies via password spraying (MITRE ATT&CK T1110). Includes rate-limiting controls to prevent accidental lockouts during engagement.
 
-### 🖥️ [Linux System & Security Audit Toolkit](https://github.com/sunsum24/Linux-Audit-Toolkit)
+### 🖥️ [Network - Reconnaissance Tool](https://github.com/sunsum24/network-recon-tool)
 Designed a Bash-based automated auditing script for IT Administrators and Pentesters. The toolkit identifies privilege escalation vectors (SUID binaries, cron jobs) and locates plaintext credentials to harden Linux servers.
 
 ---
