@@ -1,6 +1,6 @@
 <!-- Hacker Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=007FFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
 </div>
 
 <!-- Contact Badges -->
@@ -17,18 +17,34 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Cybersecurity Analyst** and **Accredited VAPT Professional** based in Milan, Italy. I specialize in vulnerability assessment, penetration testing, and cloud security. I am currently building a 30-day portfolio of hands-on Red Team and IT Support tools to demonstrate real-world capability. 
+Cybersecurity and IT professional accredited as a Vulnerability Assessment and Penetration Testing (VAPT) Practitioner by the Cyber Security Authority of Ghana, with practical exposure to vulnerability scanning, penetration-testing tools, security operations, IT support, systems administration and database management. Familiar with Kali Linux, Nmap and Burp Suite, alongside AWS security fundamentals, identity and access management, encryption, security logging, Python scripting and SQL. Experienced in supporting vulnerability-scanning activities, reviewing access controls, deploying baseline endpoint security patches, managing system configurations and maintaining locally hosted databases. Currently pursuing a BSc in Computer Science with a Cybersecurity specialisation. Open to remote, hybrid and on-site opportunities.
 
 ## 🛠️ Tech Stack & Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://aws.amazon.com/security/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.netacad.com/">
+    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  </a>
+  <a href="https://portswigger.net/burp">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview">
+    <img src="https://img.shields.io/badge/Active_Directory-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+  </a>
 </div>
 
 ---
@@ -76,5 +92,5 @@ Designed a Bash-based automated auditing script for IT Administrators and Pentes
 In compliance with the European General Data Protection Regulation (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes. 
 
 <div align="center">
-  <i>“Security is not a product, but a process.” – Bruce Schneier</i>
+  <i>“Attack now to defend tomorrow.” – Yeboah Prince Kwabena</i>
 </div>
