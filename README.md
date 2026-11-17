@@ -1,5 +1,6 @@
+<!-- Dynamic Multi-Color Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=45&pause=1000&color=007FFF&center=true&vCenter=true&width=800&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Red+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=45&pause=1500&color=049FD9;007FFF;FF9900;39FF14&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
 </div>
 <!-- Contact Badges -->
 <div align="center">
@@ -76,13 +77,23 @@ Designed a Bash-based automated auditing script for IT Administrators and Pentes
 
 ---
 
-## 📜 Verified Certifications
-| Certification | Issuing Organization | Verification |
+## 📜 Verified Certifications & Badges
+
+| Certification | Issuing Organization | Verification Link |
 | :--- | :--- | :--- |
 | **Licensed Cybersecurity Professional (VAPT)** | Cyber Security Authority (Ghana) | Official License |
-| **Cisco Certified Ethical Hacker** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/3b72b0c5-5cf9-4046-adcc-ae4adcaea91d/public_url) |
-| **AWS Cloud Security Fundamentals** | AWS Training & Certification | [View Badge](#) |
-| **Advanced SQL & Python** | HackerRank | [Verify](https://www.hackerrank.com/certificates/407a2c7f9bec) |
+| **Cisco Cyber Threat Management** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/045b8098-e378-44c4-a3b1-c014c5251f6b/public_url) |
+| **Cisco Ethical Hacker** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/3b72b0c5-5cf9-4046-adcc-ae4adcaea91d/public_url) |
+| **Cisco Intro to Cybersecurity** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/902f3136-8db7-486b-b387-2bb0ba19cfdf/public_url) |
+| **Cisco Python Essentials 1** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/e2fb8c4b-a827-4c65-9564-83bab9bf261a/public_url) |
+| **Cisco Python Essentials 2** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/d6df31eb-896d-4c78-bcc1-026654c5f042/public_url) |
+| **Cisco Computer Hardware Basics** | Cisco Networking Academy | [Verify on Credly](https://www.credly.com/badges/c6aef776-8c51-4ca6-b94c-dbbcc4473dd7/public_url) |
+| **HackerRank Software Engineer** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/407a2c7f9bec) |
+| **HackerRank Python Basics** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/9739a2a24816) |
+| **HackerRank SQL Advanced** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/63c9f32121bf) |
+| **HackerRank Software Engineering Intern** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/5073bb2a8798) |
+| **HackerRank Problem Solving** | HackerRank | [Verify Certificate](https://www.hackerrank.com/certificates/5221ddc344d0) |
+| **Alison Diploma in Cybersecurity** | Alison | [Verify Certificate](https://alison.com/verify/4db829d6a8) |
 
 ---
 
