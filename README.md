@@ -1,6 +1,6 @@
 <!-- Hacker Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&weight=900&size=55&pause=1000&color=007FFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bungee&weight=900&size=50&pause=1000&color=007FFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
 </div>
 <!-- Contact Badges -->
 <div align="center">
