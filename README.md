@@ -1,6 +1,10 @@
-<!-- Dynamic Multi-Color Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=900&size=45&pause=1500&color=049FD9;007FFF;FF9900;39FF14&center=true&vCenter=true&width=1000&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
+  <h1 style="font-family: 'Impact', 'Arial Black', sans-serif; font-size: 45px; font-weight: 900; margin: 0; line-height: 1.5;">
+    <span style="color: #049FD9;">CYBERSECURITY ANALYST</span><br>
+    <span style="color: #007FFF;">VAPT PRACTITIONER (CSA GHANA)</span><br>
+    <span style="color: #FF9900;">AWS CLOUD SECURITY SPECIALIST</span><br>
+    <span style="color: #39FF14;">OFFENSIVE SECURITY & RED TEAM</span>
+  </h1>
 </div>
 <!-- Contact Badges -->
 <div align="center">
