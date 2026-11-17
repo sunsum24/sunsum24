@@ -1,57 +1,54 @@
-# Cybersecurity & IT Portfolio | BSc. Computer Science
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;VAPT+Practitioner+(CSA+Ghana);AWS+Cloud+Security+Specialist;Offensive+Security+%26+Red+Team" alt="Typing SVG" />
+  </a>
+</div>
 
-**Contact:** (kat.skyjunior@gmail.com) | **LinkedIn:** (www.linkedin.com/in/kat-yeboah-prince-kwabena-199425371) |
-**Alison Diploma In Cybersecurity:** [VERIFY AT] (https://alison.com/verify/4db829d6a8) |
-**Cisco Cyber Threat Management:** [VERIFY ON CREDLY] (https://www.credly.com/badges/045b8098-e378-44c4-a3b1-c014c5251f6b/public_url) | **Cisco Ethical Hacker** [VERIFY ON CREDLY] (https://www.credly.com/badges/3b72b0c5-5cf9-4046-adcc-ae4adcaea91d/public_url) | 
-**Cisco Introduction To Cybersecurity** [VERIFY ON CREDLY] (https://www.credly.com/badges/902f3136-8db7-486b-b387-2bb0ba19cfdf/public_url) | 
-**Cisco Python Essentials 1** [VERIFY ON CREDLY] (https://www.credly.com/badges/e2fb8c4b-a827-4c65-9564-83bab9bf261a/public_url) | **Cisco Python Essentials 2** [VERIFY ON CREDLY] (https://www.credly.com/badges/d6df31eb-896d-4c78-bcc1-026654c5f042/public_url)
-**Cisco Computer hardware Basics** [VERIFY ON CREDLY] (https://www.credly.com/badges/c6aef776-8c51-4ca6-b94c-dbbcc4473dd7/public_url)
-**Hackerank Software Engineer** [VERIFY AT] (https://www.hackerrank.com/certificates/407a2c7f9bec)
-**Hackerank Python Basics:** [VERIFY AT] (https://www.hackerrank.com/certificates/9739a2a24816)
-**Hackerank SQL Advanced:** [VERIFY AT] (https://www.hackerrank.com/certificates/63c9f32121bf)
-**Hackerank Software Engineering Intern:** [VEIRIFY AT] (https://www.hackerrank.com/certificates/5073bb2a8798)
-**Hackerank Problem Solving:** [VERIFY AT] (https://www.hackerrank.com/certificates/5221ddc344d0)
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunsum24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-## 💻 Professional Profile
-Results-driven Computer Science graduate, specializing in Penetration Testing and Enterprise Network Security. Formally certified by the Cyber Security Authority (CSA) of Ghana. Adept at identifying systemic network vulnerabilities and translating technical risk metrics into European compliance strategies (OWASP, GDPR). Adept in customising Artificial Intelligence prompts for efficient and healthy output
+### 👨‍💻 About Me
+I am a **Cybersecurity Analyst** and **Accredited VAPT Professional** based in Milan, Italy. I specialize in vulnerability assessment, penetration testing, and cloud security. I am currently building a 30-day portfolio of hands-on Red Team and IT Support tools.
+
+### 🛠️ Tech Stack & Tools
+<!-- Interactive Badges -->
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
 
 ---
 
-## 📜 Core Professional Certifications
-* **Certified Cybersecurity Professional** – Cyber Security Authority (CSA), Republic of Ghana
-* **Ethical Hacker Certification** – Cisco Networking Academy
-* **Verified Language Proficiency (Java,Python,SQL)** – HackerRank & Cisco Certified
-* **Enterprise Security Virtual Analyst** – Forage Engineering Portfolios
+### 📊 GitHub Analytics
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sunsum24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunsum24&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunsum24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## 🛠️ Technical Ecosystem & Tooling
-* **Offensive Security:** Methodology & Planning, Vulnerability Scanning, Web Application Pentesting, Privilege escalation.
-* **OS:** Kali Linux, Ubuntu Enterprise, Windows Server Architecture, Mac
-* **Programming & Scripting :** Python (Security Automation), Java (Spring Security), C++, Bash, Powershell,
-* **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, OWASP ZAP, Hashcat, John the Ripper
-* **Networking & Protocols:** TCP/IP architecture,DNS security, Wireshark Traffic Analysis
-* **Cloud Architecture:** AWS / Microsoft Azure Environment Foundations
+### 🎯 Current Focus
+- 🔭 Currently building: **30 Days of Cybersecurity & IT Projects**
+- 🌱 Learning: **Active Directory Exploitation & Cloud Pentesting**
+- 👯 Open to: **Junior Penetration Tester / VAPT / IT Support roles**
 
 ---
-
-## 📂 Practical Security Engineering Write-Ups
-
-### 🔍 Project 1: Enterprise Network Architecture Vulnerability Assessment
-* **Environment:** Isolated Hybrid-Cloud Active Directory Environment (AWS Lab)
-* **Methodology:** Reconnaissance via Nmap; packet analysis via Wireshark; exploitation via custom Python payload; lateral privilege escalation
-* **Remediation & Compliance Alignment:** Enforced Network Segmentation protocols mapping directly to OWASP Top 10 enterprise compliance standards
-
-## Professional Certification
-* **OSCP+/ OSCP:** -*In progress*
-* **CompTIA Security+:** -*In Progress*
----
-## Language & Cultural Alignment
-* **English:** Full Professional Proficiency (C1/C2 equivalent)
-* **Italian:** Limited working Proficiency(A2/B1 CEFR Level - Continuous Study Track)
-* **French:**  Limited working Proficiency (B1/B2 CEFR Level - Continuous Study Track)
----
-## GDPR Compliance Notice
-* *In compliance with the European General Data Protection (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes*
+*“Security is not a product, but a process.” – Bruce Schneier*
