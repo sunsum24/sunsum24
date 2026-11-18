@@ -1,6 +1,6 @@
 <!-- Dynamic Multi-Color Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=049FD9,007FFF,FF9900,39FF14&center=true&vCenter=true&width=800&lines=CYBERSECURITY+ANALYST;VAPT+PRACTITIONER+(CSA+GHANA);AWS+CLOUD+SECURITY;OFFENSIVE+SECURITY+%26+RED+TEAM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=D10000&center=true&vCenter=true&width=800&lines=CYBERSECURITY+ANALYST;VAPT+PRACTITIONER+(CSA+GHANA);AWS+CLOUD+SECURITY;OFFENSIVE+SECURITY+%26+RED+TEAM" alt="Typing SVG" />
 </div>
 <!-- Contact Badges -->
 <div align="center">
