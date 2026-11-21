@@ -100,9 +100,10 @@ In compliance with the European General Data Protection Regulation (GDPR), I her
      All tools and scripts in this portfolio are strictly for authorized penetration testing, Red Team engagements, and educational purposes. Unauthorized use is illegal
 
 </div>
----
 
 ---
 <div align="center">
-  <i>“Silent recon, Loud impact.” – Yeboah Prince Kwabena</i>
+  <u>
+      “Silent recon, Loud impact.” – Yeboah Prince Kwabena
+  </u>
 </div>
