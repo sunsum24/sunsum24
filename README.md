@@ -50,18 +50,14 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 
 ## 🚀 Featured Engineering Projects
 
-### 🛡️ [Dockerized Web Pentesting Lab](https://github.com/sunsum24/Docker-Pentest-Lab)
-Architected an isolated, containerized Red Team lab using Docker Compose. Included Kali Linux (attacker) and DVWA (vulnerable target). Documented a full SQL Injection exploit using SQLmap, including mitigation strategies.
-* **Tools:** Docker, Linux, SQLmap, Nmap.
+## 🚀 Featured Engineering Projects
 
-### 🧪 [VAPT Methodology & Reporting Template](https://github.com/sunsum24/VAPT-Report-Template)
-Developed a standardized, CVSS v3.1-aligned reporting template for penetration testing engagements. Aligned with OWASP Top 10 and PTES standards to translate technical risk into business terms for stakeholders.
-
-### ☁️ [Active Directory Password Sprayer](https://github.com/sunsum24/AD-Password-Sprayer)
-Built a Python tool designed to safely test Active Directory account lockout policies via password spraying (MITRE ATT&CK T1110). Includes rate-limiting controls to prevent accidental lockouts during engagement.
-
-### 🖥️ [Network - Reconnaissance Tool](https://github.com/sunsum24/network-recon-tool)
-Designed a Bash-based automated auditing script for IT Administrators and Pentesters. The toolkit identifies privilege escalation vectors (SUID binaries, cron jobs) and locates plaintext credentials to harden Linux servers.
+| Project | Description | Tools Used |
+| :--- | :--- | :--- |
+| [Red Team Infrastructure](https://github.com/sunsum24/Red-Team-Infrastructure) | Architected a secure C2 infrastructure using Redirectors to obscure operator identity and bypass threat intel. | `MITRE T1090`, `OpSec` |
+| [Phishing Simulation Lab](https://github.com/sunsum24/Phishing-Simulation-Lab) | Deployed a Gophish & MailHog Docker environment for credential harvesting and awareness training. | `Docker`, `Gophish` |
+| [AD Password Sprayer](https://github.com/sunsum24/AD-Password-Sprayer) | Built a Python tool to safely test Active Directory lockout policies (rate-limited to prevent lockouts). | `Python`, `Active Directory` |
+| [Docker Pentest Lab](https://github.com/sunsum24/Docker-Pentest-Lab) | Architected a Kali Linux + DVWA container lab and documented a full SQLi exploitation & mitigation. | `Docker`, `SQLmap` |
 
 ---
 
