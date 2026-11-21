@@ -95,14 +95,14 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 In compliance with the European General Data Protection Regulation (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes. 
 
 ---
+## DISCLAIMER ⚠️ 
 <div align = "left">
-  <i>
-    ⚠️ Disclaimer: All tools and scripts in this portfolio are strictly for authorized penetration testing, Red Team engagements, and educational purposes. Unauthorized use is illegal
-  </i>
+     All tools and scripts in this portfolio are strictly for authorized penetration testing, Red Team engagements, and educational purposes. Unauthorized use is illegal
+
 </div>
 ---
 
 ---
-<div align="center" font = Sans+Serif & size = 600 & weight = bold>
-  <i>“Attack now to defend tomorrow.” – Yeboah Prince Kwabena</i>
+<div align="center">
+  <i>“Silent recon, Loud impact.” – Yeboah Prince Kwabena</i>
 </div>
