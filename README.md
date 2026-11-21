@@ -59,8 +59,6 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 
 ---
 
-[![CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)]("C:\Users\katsk\Desktop\CV_HERE.pdf")
-
 ## 📊 GitHub Analytics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunsum24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -96,12 +94,15 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 ## 🇪🇺 GDPR & Compliance
 In compliance with the European General Data Protection Regulation (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes. 
 
+---
 <div align = "left">
   <i>
     ⚠️ Disclaimer: All tools and scripts in this portfolio are strictly for authorized penetration testing, Red Team engagements, and educational purposes. Unauthorized use is illegal
   </i>
 </div>
+---
 
-<div align="center">
+---
+<div align="center" font = Sans+Serif & size = 600 & weight = bold>
   <i>“Attack now to defend tomorrow.” – Yeboah Prince Kwabena</i>
 </div>
