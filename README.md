@@ -108,4 +108,3 @@ In compliance with the European General Data Protection Regulation (GDPR), I her
   </u>
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunsum24&theme=red)](https://github.com/sunsum24)
