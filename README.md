@@ -50,8 +50,6 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 
 ## 🚀 Featured Engineering Projects
 
-## 🚀 Featured Engineering Projects
-
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
 | [Red Team Infrastructure](https://github.com/sunsum24/Red-Team-Infrastructure) | Architected a secure C2 infrastructure using Redirectors to obscure operator identity and bypass threat intel. | `MITRE T1090`, `OpSec` |
@@ -60,6 +58,8 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 | [Docker Pentest Lab](https://github.com/sunsum24/Docker-Pentest-Lab) | Architected a Kali Linux + DVWA container lab and documented a full SQLi exploitation & mitigation. | `Docker`, `SQLmap` |
 
 ---
+
+[![CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)]("C:\Users\katsk\Desktop\CV_HERE.pdf")
 
 ## 📊 GitHub Analytics
 <div align="center">
@@ -95,6 +95,12 @@ Cybersecurity and IT professional accredited as a Vulnerability Assessment and P
 
 ## 🇪🇺 GDPR & Compliance
 In compliance with the European General Data Protection Regulation (GDPR), I hereby authorize the processing of my personal data contained in this portfolio and attached documents for recruitment and selection purposes. 
+
+<div align = "left">
+  <i>
+    ⚠️ Disclaimer: All tools and scripts in this portfolio are strictly for authorized penetration testing, Red Team engagements, and educational purposes. Unauthorized use is illegal
+  </i>
+</div>
 
 <div align="center">
   <i>“Attack now to defend tomorrow.” – Yeboah Prince Kwabena</i>
